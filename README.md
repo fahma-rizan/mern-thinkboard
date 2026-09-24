@@ -3,7 +3,7 @@
 A full-stack notes app built with the MERN stack. Create, view, edit, and delete notes from a clean, responsive interface.
 
 **Live demo:**
-(https://mern-thinkboard-j4aeonrendercom/)
+(https://mern-thinkboard-j4ae.onrender.com)
 
 > Hosted on Render's free tier, so the first load after a period of inactivity can take up to a minute.
 
